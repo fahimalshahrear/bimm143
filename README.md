@@ -3,10 +3,12 @@
 this is my classwork from [Bimm 143 spring 2019 at UCSD] (https://bigboot.github.io/bimm143_s19/) at UCSD
 
 -class 05: R Basics, data structures and data input
+https://github.com/fahimalshahrear/bimm143/tree/master/class05
 
 -class 06: R graphics, generating plot with R
 
 -class 07: Bioinformatics R packages from CRAN and BioConductor 
+https://github.com/fahimalshahrear/bimm143/blob/master/class%207/class7proj.R
 
 -class08: Introduction to machine learning for Bioinformatics 1
 
