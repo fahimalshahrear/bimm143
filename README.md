@@ -22,7 +22,7 @@ this is my classwork from [Bimm 143 spring 2019 at UCSD](https://bioboot.github.
 
 -class14: Transcriptomics and the analysis of RNA-Seq data 
 
--class15: Genome annotation and the interpretation of gene lists 
+-[class15: Genome annotation and the interpretation of gene lists](https://github.com/fahimalshahrear/bimm143/blob/master/class%2015.Rproj)
 
 -class16: Essential UNIX for bioinformatics 
 
