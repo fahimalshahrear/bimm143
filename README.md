@@ -10,8 +10,7 @@ this is my classwork from [Bimm 143 spring 2019 at UCSD](https://bioboot.github.
 
 -class08: Introduction to machine learning for Bioinformatics 1
 
--class09: Unsupervised learning mini-project...........
-https://github.com/fahimalshahrear/bimm143/blob/master/class%209/class%209%20project.R
+-[class09: Unsupervised learning mini-project](https://github.com/fahimalshahrear/bimm143/blob/master/class%209/class%209%20project.R)
 
 -[class10:Project: Find a gene assignment (Part 1)](https://github.com/fahimalshahrear/bimm143/blob/master/Bimm143_sp19_Fahim%20Al%20Shahrear%20(2).pdf)
 
