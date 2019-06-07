@@ -13,9 +13,9 @@ this is my classwork from [Bimm 143 spring 2019 at UCSD](https://bioboot.github.
 -class09: Unsupervised learning mini-project...........
 https://github.com/fahimalshahrear/bimm143/blob/master/class%209/class%209%20project.R
 
--class10:Project: Find a gene assignment (Part 1) 
+-[class10:Project: Find a gene assignment (Part 1)](https://github.com/fahimalshahrear/bimm143/blob/master/Bimm143_sp19_Fahim%20Al%20Shahrear%20(2).pdf)
 
--class11: Structural Bioinformatics (Part 1) 
+-[class11: Structural Bioinformatics (Part 1)](https://github.com/fahimalshahrear/bimm143/blob/master/class%2010.Rproj)
 
 -class12: Bioinformatics in drug discovery and design
 
