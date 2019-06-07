@@ -1,6 +1,6 @@
 # BIMM143
 
-this is my classwork from [Bimm 143 spring 2019 at UCSD] ["https://bigboot.github.io/bimm143_s19/"] at UCSD
+this is my classwork from [Bimm 143 spring 2019 at UCSD](https://bioboot.github.io/bimm143_S19/)
 
 -class 05: R Basics, data structures and data input........
 -["https://github.com/fahimalshahrear/bimm143/tree/master/class05"]
